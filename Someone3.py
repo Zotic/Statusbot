@@ -1123,7 +1123,7 @@ while True:
         #client.connect()
         #client.login("zotic296@gmail.com","mcpe2359")
         #client.run("zotic296@gmail.com","mcpe2359")
-        client.loop.run_until_complete(client.start("zotic296@gmail.com","mcpe2359"))
+        client.loop.run_until_complete(client.start("MzM0Mzc4NTU0NzM1NDYwMzU0.DjMPrQ.zmqcjsZSYtwfSjMgDbAnxf2r5Io"))
     except:
         print("\x1b[31mОшибка подключения, пытаюсь перезайти...\x1b[0m")
 
