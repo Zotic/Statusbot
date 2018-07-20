@@ -1,12 +1,9 @@
 import discord
 import asyncio
-from discord.ext.commands import Bot
-from discord.ext import commands
 import random
 
-Client = discord.Client()
-bot_prefix = "!Zotic2359"
-client = commands.Bot (command_prefix = bot_prefix)
+client = discord.Client()
+
 
 
 global info
