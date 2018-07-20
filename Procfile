@@ -1,1 +1,1 @@
-web: python OtschetBot5.py
+web: python Someone3.py runserver 0.0.0.0:5000
